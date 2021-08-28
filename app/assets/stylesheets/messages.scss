@@ -19,7 +19,7 @@ div.columns.message {
 
     div.column {
       &.content {
-        color: $grey-darker;
+        color: #3a3a3a;
         background-color: #99FF99;
       }
 
@@ -31,8 +31,8 @@ div.columns.message {
 
   &.receiver {
     div.column.content {
-      color: $black-ter;
-      background-color: $white-ter;
+      color: #181818;
+      background-color: #ffffff;
     }
   }
 }
