@@ -15,5 +15,7 @@
   "devDependencies": {
     "webpack-dev-server": "^3.11.2"
   },
-  "postinstall": "npm rebuild node-sass && npm install --unsafe-perm -f node-sass"
+  "scripts": {
+    "postinstall": "npm rebuild node-sass && npm install --unsafe-perm -f node-sass"
+  }
 }
