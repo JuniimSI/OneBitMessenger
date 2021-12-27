@@ -5,3 +5,4 @@ Aplicação que simula um messenger utilizando o RubyOnRails
 - Ruby
 - RubyOnRails
 - ActionCable
+- Redis
