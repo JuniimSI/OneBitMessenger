@@ -7,6 +7,9 @@ Aplicação que simula um messenger utilizando o RubyOnRails
 - ActionCable
 - Redis
 
+## Link
+https://onebitmessenger-app.herokuapp.com
+
 ## Screenshots
 
 - Login
